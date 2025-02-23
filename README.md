@@ -74,6 +74,6 @@ I was suggested by Professor Jean to create final project using Shiny; however, 
    - **3)** discuss the modeling with co-workers in the lab.
    - **4)** create models.
    - **5)** meet with my advisor with built models to talk about the following steps.
-All of these will take time, so I will try to do these as soon as possible (I am not sure). I will also keep Professor Clipperton updated as we discussed, and we will talk about the possible directions regarding the final projects.
+All of these will take time, so I will try to do these as soon as possible (I am not sure). I will also keep Professor Clipperton updated as we discussed, and we will talk more about the possible directions regarding the final projects and how I could expand it.
 
- Regarding the visualizations themselves, I will make adjustments based on the feedback, and once I have appropriate data, I will try to apply my data to those ideas and code to see if it is still working and if there is anything that need to be changed. 
+Regarding the visualizations themselves, I will make adjustments based on the feedback, and once I have appropriate data, I will try to apply my data to those ideas and code to see if it is still working and if there is anything that need to be changed. 
