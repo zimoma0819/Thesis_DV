@@ -1,8 +1,8 @@
-# MACS47000 Assignment 3
+# MACS47000 Final Project Proposal
 **Author:** Zimo Ma  
-**Date:** 2025-02-08
+**Date:** 2025-02-23
 
-## *Research Question and Data Introduction*:
+## *Research Question and Data Introduction* (Writing from Assignment#3):
 
 For this assignment, I will utilize data from my academic thesis titled "What Is Beautiful Is Good: Visualizing the Role of Visual Stereotypes in the Workplace." This study examines the questions: "What are the visual stereotypes linked to various client-facing versus back-office roles?" and "How does attractiveness perception impact these stereotypes?" I aim to investigate how facial attractiveness perceptions affect suitability ratings for distinct job roles, especially distinguishing between client-facing and back-office positions. (Note: My thesis proposal is also included in the repository for those interested in further details.) The data will be gathered from a forthcoming experimental study in which participants will assess the job suitability of individuals using hyper-realistic facial images. The study will feature four separate surveys, each associated with a specific job position across two industries—Retail and Finance. Currently, I have 835 hyper-realistic facial images. Participants will evaluate a subset of these images—120 randomly chosen images plus an additional 30 randomly selected from these for inter-rater reliability—to determine each individual's job suitability as described in the survey. This approach is designed to reveal potential biases in hiring influenced by visual stereotypes.
 
@@ -43,7 +43,7 @@ This scatter plot explores the relationship between attractiveness scores and jo
    [Continuous Y Plots html](https://github.com/MACS40700/assignment-3-zimoma0819/blob/main/Assignment3_ContinuousYPlots.html)
 
    
-## Feedback
+## Feedback (New Section)
 
 #### Continuous Variables
 
